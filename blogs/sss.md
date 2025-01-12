@@ -1,4 +1,4 @@
-# Siber Güvenliğe Başlangıç Rehberi
+# Siber Güvenliğe Başlamak istiyorum AMA... Rehberi
 
 Öncelikle şunu şunu şunu yapayım bana direkt hap bilgiler içeren bir roadmap ver diyorsan şu aşağıdaki siteyi ziyaret etmelisin, ben yine de ne dediğine bir bakacağım diyorsan da yazdığımız yazıyı okuduktan sonra yine buraya bakmanı öneririm:
 
