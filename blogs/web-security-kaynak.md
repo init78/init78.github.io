@@ -7,10 +7,12 @@ Burada Web Security için referans alabileceğiniz ve üzerinde çalışabilece�
 Open Web Application Security Project (OWASP) tarafından hazırlanan bu döküman recon aşamasının nasıl manuel şekilde gerçekleştirileceğinden başlayıp ileri düzey diğer saldırı vektörlerinin de mantığını anlatan harika bir dökümana sahiptir. Döküman içerisinde zaafiyetin neden ortaya çıktığı, nasıl test edileceği ve önlemlerinin nasıl alınacağı konusunda ayrıntılar yer almakla birlikte bir sitede pentest yaparken checklist olarak kullanabileceğiniz bir liste olarak da elinizin altında tutabilirsiniz.
 
 * [OWASP Web Security Testing Guide](https://owasp.org/www-project-web-security-testing-guide/stable/)
+* Ama ingiliççe diyorsanız @enoskom sizin için çevirdi: [OWASP Web Security Testing Guide Türkçe](https://github.com/enoskom/Owasp-wstg)
 
 Buna ek olarak OWASP'tan bir de Cheat Sheet var.
 
 * [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/index.html)
+
 
 ## OWASP SCP
 
@@ -39,6 +41,9 @@ Saldırı vektörünü ve doğasını anladığınızı düşünüyorsunuz. Elin
 * [SecurityCipher Vulnerable Code Snippet](https://github.com/securitycipher/vulnerable-code-snippet)
 
 Tabi aynı zamanda bunları local sisteminde kaldırıp testlerini de yapabilirsin.
+
+## Penetrasyon Testi Standardı (PTES) - Türkçe Çeviri (by @enoskom)
+* [PTES - Türkçe Çeviri](https://github.com/enoskom/ptest)
 
 ## APISEC University
 
